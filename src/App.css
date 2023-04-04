@@ -1,0 +1,16 @@
+.App {
+  background-color: rgb(216, 254, 180);
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width :90%;
+}
+
+.App-title{
+  width: 100%;
+}
+
+.App-card{
+  background-color: lightgrey;
+}
